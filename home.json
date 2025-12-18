@@ -5,8 +5,9 @@
     "title": "See What's New in macOS Tahoe",
     "description": "A gorgeous new look, a supercharged Spotlight, and more.",
     "media": {
-      "type": "image",
-      "url": "https://unblast.com/wp-content/uploads/2021/01/Space-Background-Images.jpg"
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID",
+      "thumbnail": "https://i.ytimg.com/vi/VIDEO_ID/default.jpg"
     }
   },
   "cards": [
