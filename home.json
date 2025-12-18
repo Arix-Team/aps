@@ -1,1 +1,20 @@
-
+{
+  "pageTitle": "Discover",
+  "featuredBanner": {
+    "tag": "MAJOR UPDATE",
+    "title": "See What's New in macOS Tahoe",
+    "description": "A gorgeous new look, a supercharged Spotlight, and more."
+  },
+  "cards": [
+    {
+      "tag": "MAJOR UPDATE",
+      "title": "Welcome to the App Center!",
+      "description": "Take a tour and find your next favorite app."
+    },
+    {
+      "tag": "GET STARTED",
+      "title": "The Apple Games App Is Your New Home for play",
+      "description": "Take a tour and find your next favorite app."
+    }
+  ]
+}
